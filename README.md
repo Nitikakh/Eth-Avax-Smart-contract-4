@@ -1,0 +1,4 @@
+DegenToken Smart Contract Description
+
+
+The DegenToken smart contract is an ERC-20 token deployed on the Avalanche blockchain with the name "Degen" and symbol "DGN". It serves as the foundational currency within Degen Gaming's ecosystem, designed to reward players for their engagement and facilitate transactions within their games. The contract allows for token minting by the owner (contract deployer), token transfers between users, burning of tokens by holders, and a placeholder function for future token redemption for in-game rewards. The contract enhances security and control through ownership restrictions, ensuring that critical operations such as minting new tokens are securely managed. Deployed on Avalanche, the contract leverages the network's scalability and low transaction fees to support a seamless and cost-effective tokenized experience for Degen Gaming's community, contributing to enhanced player engagement and retention through blockchain technology.
